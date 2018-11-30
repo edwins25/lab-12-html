@@ -1,0 +1,32 @@
+body {
+    background-color: linen;
+    font-family: sans-serif;
+}
+h1{
+  color: green;
+  text-transform: uppercase;
+  background-color: gray;
+  margin: 20px;
+  padding: 40px;
+  border-style: dashed;
+  border-width: 5px;
+  border-color: red;
+}
+h2{
+  text-decoration: underline;
+}
+p {
+  font-size: 12px;
+  text-decoration: line-through;
+}
+#intro{
+  color: #006400;
+  border-style: solid;
+  border-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-color: black;
+}
+#scissors{
+  background-color: yellow;
+}
